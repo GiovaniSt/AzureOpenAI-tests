@@ -62,7 +62,7 @@ In addition to language generation models, Azure OpenAI Service supports the DAL
  A blue hedgehog piloting an airplane
 ```
 
-![sonicinairplane](https://copilot.microsoft.com/images/create/a-blue-hedgehog-piloting-an-airplane/1-65d5fb5236e74e7aa3f7448ad1550da5?id=%2blXXaVs1np0PIKaqFHW3SQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG3.jXaVD8YXCJ6IMwJ_FYZ0&FORM=GCRIDP&mode=overlay)
+![sonicinairplane](C:\Users\Giovani\Downloads\56b31a20-3324-47b3-87f3-3c2933ed6cb1)
 
 2) Select Generate and view the results, which should consist of an image based on the description you provided in the prompt.
 3) Generate a second image by modifying the prompt to:
@@ -71,7 +71,7 @@ In addition to language generation models, Azure OpenAI Service supports the DAL
  A vintage microphone robot, digital art
 ```
 
-![microrobot](https://copilot.microsoft.com/images/create/a-vintage-microphone-robot2c-digital-art/1-65d604f9d9b14b0894dd6b9dcba22e38?id=V10rkegFFR5UKlIVOqZNxQ%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.FOp.XU1DW3Qzwq37HP7L&FORM=GCRIDP&mode=overlay)
+![microrobot](C:\Users\Giovani\Downloads\faf07dab-a8fd-442d-bb33-34da9d1fc17d)
 
 Verify that the new image matches the requirements of the prompt.
 
