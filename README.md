@@ -71,9 +71,7 @@ In addition to language generation models, Azure OpenAI Service supports the DAL
  A vintage microphone robot, digital art
 ```
 
-![microrobot](C:\Users\Giovani\Downloads\faf07dab-a8fd-442d-bb33-34da9d1fc17d)
-
-Verify that the new image matches the requirements of the prompt.
+<img src="https://github.com/GiovaniSt/AzureOpenAI-tests/blob/main/_faf07dab-a8fd-442d-bb33-34da9d1fc17d.jpg" width="300"/>
 
 
 
