@@ -63,6 +63,7 @@ In addition to language generation models, Azure OpenAI Service supports the DAL
 ```
 
 ![sonicinairplane](C:\Users\Giovani\Downloads\56b31a20-3324-47b3-87f3-3c2933ed6cb1)
+<img src="https://github.com/GiovaniSt/AzureOpenAI-tests-images-56b31a20-3324-47b3-87f3-3c2933ed6cb1.png">
 
 2) Select Generate and view the results, which should consist of an image based on the description you provided in the prompt.
 3) Generate a second image by modifying the prompt to:
